@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- El sprint requiere guardarlo en formato json -->
+<root>
+    <poi>
+        <poiGeneralInfo>Conserva una muestra de los elementos que han hecho parte de la historia del Señor de los Milagros de Buga.</poiGeneralInfo>
+        <poiLocation>Carrera 14 #3-37, Guadalajara de Buga</poiLocation>
+        <poiName>Museo del Señor de los Milagros</poiName>
+        <poiTemperature>30°C</poiTemperature>
+    </poi>
+    <poi>
+        <poiGeneralInfo>Expone retablos, santos, textos y mobiliario usado en actividades eclesiasticas de índole católico.</poiGeneralInfo>
+        <poiLocation>Carrera 9 #3 - 55, Guacarí</poiLocation>
+        <poiName>Museo de arte religioso</poiName>
+        <poiTemperature>29°C</poiTemperature>
+    </poi>
+    <poi>
+        <poiGeneralInfo>Expone caricaturas, acuarelas, pasteles, plumillas e intaglios elaborados por el Maestro Omar Rayo.</poiGeneralInfo>
+        <poiLocation>Calle 8 #8-53, Roldanillo</poiLocation>
+        <poiName>Museo Rayo</poiName>
+        <poiTemperature>27°C</poiTemperature>
+    </poi>
+    <poi>
+        <poiGeneralInfo>Exibición permanente de obras de artes plásticas, cine, arquitectura y fotografía.</poiGeneralInfo>
+        <poiLocation>Avenida Colombia No. 5-105 Oeste, Santiago de Cali</poiLocation>
+        <poiName>Museo de Arte Moderno La Tertulia</poiName>
+        <poiTemperature>28°C</poiTemperature>
+    </poi>
+    <poi>
+        <poiGeneralInfo>Distintos senderos muestran la historia de los trapiches y consrucciones típicas de distintas zonas de la geografía colombiana.</poiGeneralInfo>
+        <poiLocation>Localizado en la hacienda Piedechince, Corregimiento Santa Elena, vereda Amaimito en el municipio de El Cerrito, a unos 42 kilómetros de Cali</poiLocation>
+        <poiName>Museo de la Caña de Azucar y Hacienda Piedechinche</poiName>
+        <poiTemperature>21°C</poiTemperature>
+    </poi>
+</root>
